@@ -1,0 +1,24 @@
+var maxPower = function(s) {
+    let maxLength=[[],[]];
+   let maxStart=0
+   let max2Start=0
+   let somethinghappened=false
+    for(let i=0;i<s.length;i++){
+     
+        if(s[i]==s[i+1]||s[i]==s[i-1]){
+              somethinghappened=true
+            maxLength[[maxStart],[max2Start]]=s[i]
+            max2Start=max2Start+1
+        }
+        if(s[i]!=s[i+1]&&maxLength){
+            maxStart++
+            max2Start=0
+        }
+    }
+    if(somethinghappened==false){
+        return 1
+    }
+    else{
+         return maxLength.length
+    }
+};
