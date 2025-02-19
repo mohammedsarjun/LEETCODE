@@ -15,8 +15,8 @@ var findEvenNumbers = function(digits) {
         
                     continue
                 }
-                if(digits[i]!=0&&Number(`${digits[i]}${digits[j]}${digits[k]}`)%2==0){
-resArr.push(Number(`${digits[i]}${digits[j]}${digits[k]}`))
+                if(digits[i]!=0&&(digits[i]*100+digits[j]*10+digits[k])%2==0){
+resArr.push(digits[i]*100+digits[j]*10+digits[k])
                 }
                 
             }
