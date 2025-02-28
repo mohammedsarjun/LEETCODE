@@ -4,8 +4,14 @@
  */
 var argumentsLength = function(...args) {
     let count=0
-    for(let i =0;i<args.length;i++){
+    let i=0
+    while(true){
+        
+        if(args[i]===undefined){
+            break
+        }
         count++
+        i++
     }
    return count
 };
