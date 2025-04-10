@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/mohammedsarjun/LEETCODE/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/mohammedsarjun/LEETCODE/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2825-minimize-string-length](https://github.com/mohammedsarjun/LEETCODE/tree/master/2825-minimize-string-length) |
+| [3312-number-of-changing-keys](https://github.com/mohammedsarjun/LEETCODE/tree/master/3312-number-of-changing-keys) |
 ## String Matching
 |  |
 | ------- |
