@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/mohammedsarjun/LEETCODE/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/mohammedsarjun/LEETCODE/tree/master/1848-sum-of-unique-elements) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/mohammedsarjun/LEETCODE/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/mohammedsarjun/LEETCODE/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/mohammedsarjun/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
 | [2634-minimum-common-value](https://github.com/mohammedsarjun/LEETCODE/tree/master/2634-minimum-common-value) |
 | [2825-minimize-string-length](https://github.com/mohammedsarjun/LEETCODE/tree/master/2825-minimize-string-length) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/mohammedsarjun/LEETCODE/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/mohammedsarjun/LEETCODE/tree/master/2128-reverse-prefix-of-word) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/mohammedsarjun/LEETCODE/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/mohammedsarjun/LEETCODE/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/mohammedsarjun/LEETCODE/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/mohammedsarjun/LEETCODE/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2825-minimize-string-length](https://github.com/mohammedsarjun/LEETCODE/tree/master/2825-minimize-string-length) |
