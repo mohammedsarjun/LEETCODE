@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/mohammedsarjun/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0575-distribute-candies](https://github.com/mohammedsarjun/LEETCODE/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/mohammedsarjun/LEETCODE/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0941-sort-array-by-parity](https://github.com/mohammedsarjun/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [0965-unique-email-addresses](https://github.com/mohammedsarjun/LEETCODE/tree/master/0965-unique-email-addresses) |
 | [1137-height-checker](https://github.com/mohammedsarjun/LEETCODE/tree/master/1137-height-checker) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/mohammedsarjun/LEETCODE/tree/master/0290-word-pattern) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0575-distribute-candies](https://github.com/mohammedsarjun/LEETCODE/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/mohammedsarjun/LEETCODE/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0965-unique-email-addresses](https://github.com/mohammedsarjun/LEETCODE/tree/master/0965-unique-email-addresses) |
 | [1635-number-of-good-pairs](https://github.com/mohammedsarjun/LEETCODE/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/mohammedsarjun/LEETCODE/tree/master/1848-sum-of-unique-elements) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mohammedsarjun/LEETCODE/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/mohammedsarjun/LEETCODE/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/mohammedsarjun/LEETCODE/tree/master/0392-is-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/mohammedsarjun/LEETCODE/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0965-unique-email-addresses](https://github.com/mohammedsarjun/LEETCODE/tree/master/0965-unique-email-addresses) |
 | [1205-defanging-an-ip-address](https://github.com/mohammedsarjun/LEETCODE/tree/master/1205-defanging-an-ip-address) |
 | [1894-merge-strings-alternately](https://github.com/mohammedsarjun/LEETCODE/tree/master/1894-merge-strings-alternately) |
