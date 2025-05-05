@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/mohammedsarjun/LEETCODE/tree/master/0965-unique-email-addresses) |
 | [1635-number-of-good-pairs](https://github.com/mohammedsarjun/LEETCODE/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/mohammedsarjun/LEETCODE/tree/master/1848-sum-of-unique-elements) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mohammedsarjun/LEETCODE/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/mohammedsarjun/LEETCODE/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/mohammedsarjun/LEETCODE/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/mohammedsarjun/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/mohammedsarjun/LEETCODE/tree/master/0965-unique-email-addresses) |
 | [1205-defanging-an-ip-address](https://github.com/mohammedsarjun/LEETCODE/tree/master/1205-defanging-an-ip-address) |
 | [1894-merge-strings-alternately](https://github.com/mohammedsarjun/LEETCODE/tree/master/1894-merge-strings-alternately) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mohammedsarjun/LEETCODE/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2128-reverse-prefix-of-word](https://github.com/mohammedsarjun/LEETCODE/tree/master/2128-reverse-prefix-of-word) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/mohammedsarjun/LEETCODE/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/mohammedsarjun/LEETCODE/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/mohammedsarjun/LEETCODE/tree/master/1137-height-checker) |
 | [1635-number-of-good-pairs](https://github.com/mohammedsarjun/LEETCODE/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/mohammedsarjun/LEETCODE/tree/master/1848-sum-of-unique-elements) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mohammedsarjun/LEETCODE/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/mohammedsarjun/LEETCODE/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [3778-transform-array-by-parity](https://github.com/mohammedsarjun/LEETCODE/tree/master/3778-transform-array-by-parity) |
 ## Math
