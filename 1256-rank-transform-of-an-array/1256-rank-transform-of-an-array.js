@@ -3,7 +3,7 @@
  * @return {number[]}
  */
 var arrayRankTransform = function(arr) {
-    let orgArr=structuredClone(arr)
+    let orgArr=[...arr]
     arr.sort((a,b)=>a-b)
 
    let setArr=new Set(arr)
