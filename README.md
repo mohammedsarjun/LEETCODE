@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/mohammedsarjun/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0227-basic-calculator-ii](https://github.com/mohammedsarjun/LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/mohammedsarjun/LEETCODE/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/mohammedsarjun/LEETCODE/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/mohammedsarjun/LEETCODE/tree/master/0392-is-subsequence) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mohammedsarjun/LEETCODE/tree/master/0009-palindrome-number) |
+| [0227-basic-calculator-ii](https://github.com/mohammedsarjun/LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/mohammedsarjun/LEETCODE/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/mohammedsarjun/LEETCODE/tree/master/1013-fibonacci-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/mohammedsarjun/LEETCODE/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/mohammedsarjun/LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [2128-reverse-prefix-of-word](https://github.com/mohammedsarjun/LEETCODE/tree/master/2128-reverse-prefix-of-word) |
 ## Number Theory
 |  |
