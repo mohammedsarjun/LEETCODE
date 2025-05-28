@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/mohammedsarjun/LEETCODE/tree/master/0965-unique-email-addresses) |
 | [1137-height-checker](https://github.com/mohammedsarjun/LEETCODE/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/mohammedsarjun/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mohammedsarjun/LEETCODE/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1635-number-of-good-pairs](https://github.com/mohammedsarjun/LEETCODE/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/mohammedsarjun/LEETCODE/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/mohammedsarjun/LEETCODE/tree/master/0645-set-mismatch) |
 | [0965-unique-email-addresses](https://github.com/mohammedsarjun/LEETCODE/tree/master/0965-unique-email-addresses) |
 | [1256-rank-transform-of-an-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/mohammedsarjun/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1635-number-of-good-pairs](https://github.com/mohammedsarjun/LEETCODE/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/mohammedsarjun/LEETCODE/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mohammedsarjun/LEETCODE/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0941-sort-array-by-parity](https://github.com/mohammedsarjun/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/mohammedsarjun/LEETCODE/tree/master/0953-reverse-only-letters) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/mohammedsarjun/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/mohammedsarjun/LEETCODE/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/mohammedsarjun/LEETCODE/tree/master/2128-reverse-prefix-of-word) |
 | [2634-minimum-common-value](https://github.com/mohammedsarjun/LEETCODE/tree/master/2634-minimum-common-value) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/mohammedsarjun/LEETCODE/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/mohammedsarjun/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/mohammedsarjun/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mohammedsarjun/LEETCODE/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2634-minimum-common-value](https://github.com/mohammedsarjun/LEETCODE/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/mohammedsarjun/LEETCODE/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -133,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/mohammedsarjun/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [1137-height-checker](https://github.com/mohammedsarjun/LEETCODE/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/mohammedsarjun/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2215-finding-3-digit-even-numbers](https://github.com/mohammedsarjun/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
 | [2502-sort-the-people](https://github.com/mohammedsarjun/LEETCODE/tree/master/2502-sort-the-people) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/mohammedsarjun/LEETCODE/tree/master/2585-delete-greatest-value-in-each-row) |
