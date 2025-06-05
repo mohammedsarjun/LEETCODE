@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2886-faulty-keyboard](https://github.com/mohammedsarjun/LEETCODE/tree/master/2886-faulty-keyboard) |
 | [3312-number-of-changing-keys](https://github.com/mohammedsarjun/LEETCODE/tree/master/3312-number-of-changing-keys) |
 | [3617-find-the-original-typed-string-i](https://github.com/mohammedsarjun/LEETCODE/tree/master/3617-find-the-original-typed-string-i) |
+| [3636-check-balanced-string](https://github.com/mohammedsarjun/LEETCODE/tree/master/3636-check-balanced-string) |
 ## String Matching
 |  |
 | ------- |
