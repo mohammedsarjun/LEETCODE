@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/mohammedsarjun/LEETCODE/tree/master/2634-minimum-common-value) |
 | [2825-minimize-string-length](https://github.com/mohammedsarjun/LEETCODE/tree/master/2825-minimize-string-length) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mohammedsarjun/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mohammedsarjun/LEETCODE/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-number-of-changing-keys](https://github.com/mohammedsarjun/LEETCODE/tree/master/3312-number-of-changing-keys) |
 | [3617-find-the-original-typed-string-i](https://github.com/mohammedsarjun/LEETCODE/tree/master/3617-find-the-original-typed-string-i) |
 | [3636-check-balanced-string](https://github.com/mohammedsarjun/LEETCODE/tree/master/3636-check-balanced-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mohammedsarjun/LEETCODE/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String Matching
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/mohammedsarjun/LEETCODE/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/mohammedsarjun/LEETCODE/tree/master/2427-first-letter-to-appear-twice) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mohammedsarjun/LEETCODE/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3778-transform-array-by-parity](https://github.com/mohammedsarjun/LEETCODE/tree/master/3778-transform-array-by-parity) |
 ## Math
 |  |
