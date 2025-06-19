@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/mohammedsarjun/LEETCODE/tree/master/0043-multiply-strings) |
 | [0091-decode-ways](https://github.com/mohammedsarjun/LEETCODE/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/mohammedsarjun/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0227-basic-calculator-ii](https://github.com/mohammedsarjun/LEETCODE/tree/master/0227-basic-calculator-ii) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mohammedsarjun/LEETCODE/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/mohammedsarjun/LEETCODE/tree/master/0043-multiply-strings) |
 | [0227-basic-calculator-ii](https://github.com/mohammedsarjun/LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/mohammedsarjun/LEETCODE/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/mohammedsarjun/LEETCODE/tree/master/0371-sum-of-two-integers) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/mohammedsarjun/LEETCODE/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/mohammedsarjun/LEETCODE/tree/master/0258-add-digits) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/mohammedsarjun/LEETCODE/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2886-faulty-keyboard](https://github.com/mohammedsarjun/LEETCODE/tree/master/2886-faulty-keyboard) |
