@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2181-smallest-index-with-equal-value](https://github.com/mohammedsarjun/LEETCODE/tree/master/2181-smallest-index-with-equal-value) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/mohammedsarjun/LEETCODE/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mohammedsarjun/LEETCODE/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/mohammedsarjun/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/mohammedsarjun/LEETCODE/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/mohammedsarjun/LEETCODE/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/mohammedsarjun/LEETCODE/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/mohammedsarjun/LEETCODE/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mohammedsarjun/LEETCODE/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/mohammedsarjun/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/mohammedsarjun/LEETCODE/tree/master/2427-first-letter-to-appear-twice) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mohammedsarjun/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mohammedsarjun/LEETCODE/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/mohammedsarjun/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
 | [2502-sort-the-people](https://github.com/mohammedsarjun/LEETCODE/tree/master/2502-sort-the-people) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/mohammedsarjun/LEETCODE/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mohammedsarjun/LEETCODE/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/mohammedsarjun/LEETCODE/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Dynamic Programming
 |  |
