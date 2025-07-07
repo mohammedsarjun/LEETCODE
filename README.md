@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/mohammedsarjun/LEETCODE/tree/master/1848-sum-of-unique-elements) |
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/mohammedsarjun/LEETCODE/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mohammedsarjun/LEETCODE/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2181-smallest-index-with-equal-value](https://github.com/mohammedsarjun/LEETCODE/tree/master/2181-smallest-index-with-equal-value) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/mohammedsarjun/LEETCODE/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mohammedsarjun/LEETCODE/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/mohammedsarjun/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/mohammedsarjun/LEETCODE/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mohammedsarjun/LEETCODE/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mohammedsarjun/LEETCODE/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/mohammedsarjun/LEETCODE/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/mohammedsarjun/LEETCODE/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/mohammedsarjun/LEETCODE/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/mohammedsarjun/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/mohammedsarjun/LEETCODE/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mohammedsarjun/LEETCODE/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mohammedsarjun/LEETCODE/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/mohammedsarjun/LEETCODE/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/mohammedsarjun/LEETCODE/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/2421-maximum-number-of-pairs-in-array) |
