@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/mohammedsarjun/LEETCODE/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/mohammedsarjun/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [0965-unique-email-addresses](https://github.com/mohammedsarjun/LEETCODE/tree/master/0965-unique-email-addresses) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/mohammedsarjun/LEETCODE/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1137-height-checker](https://github.com/mohammedsarjun/LEETCODE/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mohammedsarjun/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/mohammedsarjun/LEETCODE/tree/master/0645-set-mismatch) |
 | [0807-custom-sort-string](https://github.com/mohammedsarjun/LEETCODE/tree/master/0807-custom-sort-string) |
 | [0965-unique-email-addresses](https://github.com/mohammedsarjun/LEETCODE/tree/master/0965-unique-email-addresses) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/mohammedsarjun/LEETCODE/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mohammedsarjun/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/mohammedsarjun/LEETCODE/tree/master/0807-custom-sort-string) |
 | [0953-reverse-only-letters](https://github.com/mohammedsarjun/LEETCODE/tree/master/0953-reverse-only-letters) |
 | [0965-unique-email-addresses](https://github.com/mohammedsarjun/LEETCODE/tree/master/0965-unique-email-addresses) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/mohammedsarjun/LEETCODE/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1205-defanging-an-ip-address](https://github.com/mohammedsarjun/LEETCODE/tree/master/1205-defanging-an-ip-address) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mohammedsarjun/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/mohammedsarjun/LEETCODE/tree/master/1894-merge-strings-alternately) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/mohammedsarjun/LEETCODE/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1137-height-checker](https://github.com/mohammedsarjun/LEETCODE/tree/master/1137-height-checker) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/mohammedsarjun/LEETCODE/tree/master/1635-number-of-good-pairs) |
