@@ -3,16 +3,8 @@
  * @return {number}
  */
 var addDigits = function(num) {
-    
-       
-        while(String(num).split('').length!=1){
- num= String(num).split('')
-        num=num.map((num)=>Number(num))
-        num=num.reduce((acc,curr)=>acc+curr,0)
-        
-        }
-       
-         
-         return num
+    if(String(num).length<2) return num
+    let strNum=String(num).split('').map((num)=>Number(num)).reduce((acc,curr)=>acc+curr)
+    return addDigits(strNum)
     
 };
