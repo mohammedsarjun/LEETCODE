@@ -20,7 +20,3 @@ function isZeroContain(num){
     num=String(num)
     return num.includes("0")
 }
-function isInteger(num){
-    num=String(num)
-    return !num.includes(".")
-}
