@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/mohammedsarjun/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mohammedsarjun/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/mohammedsarjun/LEETCODE/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0575-distribute-candies](https://github.com/mohammedsarjun/LEETCODE/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mohammedsarjun/LEETCODE/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mohammedsarjun/LEETCODE/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/mohammedsarjun/LEETCODE/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/mohammedsarjun/LEETCODE/tree/master/0409-longest-palindrome) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0575-distribute-candies](https://github.com/mohammedsarjun/LEETCODE/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mohammedsarjun/LEETCODE/tree/master/0599-minimum-index-sum-of-two-lists) |
