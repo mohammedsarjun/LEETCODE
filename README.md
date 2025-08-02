@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/mohammedsarjun/LEETCODE/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/mohammedsarjun/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/mohammedsarjun/LEETCODE/tree/master/1205-defanging-an-ip-address) |
+| [1532-reformat-the-string](https://github.com/mohammedsarjun/LEETCODE/tree/master/1532-reformat-the-string) |
 | [1651-shuffle-string](https://github.com/mohammedsarjun/LEETCODE/tree/master/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mohammedsarjun/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/mohammedsarjun/LEETCODE/tree/master/1894-merge-strings-alternately) |
