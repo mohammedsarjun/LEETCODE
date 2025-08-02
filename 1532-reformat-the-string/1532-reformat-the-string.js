@@ -10,7 +10,7 @@ var reformat = function (s) {
     if(diff>1) return ""
 
     let result=[]
-console.log(num,str)
+
  while(true){
         result.push(num.shift())
         result.push(str.shift())
