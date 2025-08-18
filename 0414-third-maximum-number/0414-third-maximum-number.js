@@ -3,11 +3,32 @@
  * @return {number}
  */
 var thirdMax = function(nums) {
-    let newSet= new Set(nums)
-    let newArr=[...newSet]
-    newArr.sort((a,b)=>b-a)
-    if(newArr.length<3){
-        return newArr[0]
+
+
+ nums=new Set(nums)
+ nums=[...nums]
+let firstLargest=-Infinity
+let secondLargest=-Infinity
+let thirdLargest=-Infinity
+
+for(i=0;i<nums.length;i++){
+    if(firstLargest<nums[i]){
+        thirdLargest=secondLargest
+        secondLargest=firstLargest
+        firstLargest=nums[i]
+        
+    }else if(secondLargest<nums[i]){
+         thirdLargest=secondLargest
+        secondLargest=nums[i]
+    }else if(thirdLargest<nums[i]){
+        thirdLargest=nums[i]
     }
-    return newArr[2]
+}
+console.log(secondLargest)
+if(thirdLargest==-Infinity){
+    return firstLargest
+}else if(!secondLargest==-Infinity){
+    return firstLargest
+}
+return thirdLargest
 };
