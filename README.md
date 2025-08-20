@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mohammedsarjun/LEETCODE/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/mohammedsarjun/LEETCODE/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/mohammedsarjun/LEETCODE/tree/master/0041-first-missing-positive) |
+| [0066-plus-one](https://github.com/mohammedsarjun/LEETCODE/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/mohammedsarjun/LEETCODE/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/mohammedsarjun/LEETCODE/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/mohammedsarjun/LEETCODE/tree/master/0198-house-robber) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/mohammedsarjun/LEETCODE/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/mohammedsarjun/LEETCODE/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/mohammedsarjun/LEETCODE/tree/master/0066-plus-one) |
 | [0227-basic-calculator-ii](https://github.com/mohammedsarjun/LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/mohammedsarjun/LEETCODE/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/mohammedsarjun/LEETCODE/tree/master/0371-sum-of-two-integers) |
