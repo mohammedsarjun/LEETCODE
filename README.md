@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mohammedsarjun/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/mohammedsarjun/LEETCODE/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/mohammedsarjun/LEETCODE/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2502-sort-the-people](https://github.com/mohammedsarjun/LEETCODE/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mohammedsarjun/LEETCODE/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/mohammedsarjun/LEETCODE/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/mohammedsarjun/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
 | [2083-three-divisors](https://github.com/mohammedsarjun/LEETCODE/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/mohammedsarjun/LEETCODE/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/mohammedsarjun/LEETCODE/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mohammedsarjun/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
