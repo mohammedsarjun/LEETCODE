@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/mohammedsarjun/LEETCODE/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mohammedsarjun/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/mohammedsarjun/LEETCODE/tree/master/1848-sum-of-unique-elements) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/mohammedsarjun/LEETCODE/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mohammedsarjun/LEETCODE/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mohammedsarjun/LEETCODE/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/mohammedsarjun/LEETCODE/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/mohammedsarjun/LEETCODE/tree/master/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mohammedsarjun/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/mohammedsarjun/LEETCODE/tree/master/1894-merge-strings-alternately) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/mohammedsarjun/LEETCODE/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/mohammedsarjun/LEETCODE/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2032-largest-odd-number-in-string](https://github.com/mohammedsarjun/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mohammedsarjun/LEETCODE/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/mohammedsarjun/LEETCODE/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mohammedsarjun/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/mohammedsarjun/LEETCODE/tree/master/1848-sum-of-unique-elements) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/mohammedsarjun/LEETCODE/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mohammedsarjun/LEETCODE/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mohammedsarjun/LEETCODE/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/mohammedsarjun/LEETCODE/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/mohammedsarjun/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mohammedsarjun/LEETCODE/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/mohammedsarjun/LEETCODE/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Trie
 |  |
 | ------- |
