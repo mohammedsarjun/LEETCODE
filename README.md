@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/mohammedsarjun/LEETCODE/tree/master/1848-sum-of-unique-elements) |
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/mohammedsarjun/LEETCODE/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2058-concatenation-of-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mohammedsarjun/LEETCODE/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2181-smallest-index-with-equal-value](https://github.com/mohammedsarjun/LEETCODE/tree/master/2181-smallest-index-with-equal-value) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/mohammedsarjun/LEETCODE/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/mohammedsarjun/LEETCODE/tree/master/0258-add-digits) |
 | [1505-create-target-array-in-the-given-order](https://github.com/mohammedsarjun/LEETCODE/tree/master/1505-create-target-array-in-the-given-order) |
+| [2058-concatenation-of-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mohammedsarjun/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/mohammedsarjun/LEETCODE/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2886-faulty-keyboard](https://github.com/mohammedsarjun/LEETCODE/tree/master/2886-faulty-keyboard) |
