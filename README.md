@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/mohammedsarjun/LEETCODE/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/mohammedsarjun/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mohammedsarjun/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/mohammedsarjun/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/mohammedsarjun/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/mohammedsarjun/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/mohammedsarjun/LEETCODE/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/mohammedsarjun/LEETCODE/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/mohammedsarjun/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/mohammedsarjun/LEETCODE/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/mohammedsarjun/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/mohammedsarjun/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mohammedsarjun/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/mohammedsarjun/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/mohammedsarjun/LEETCODE/tree/master/0392-is-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0941-sort-array-by-parity](https://github.com/mohammedsarjun/LEETCODE/tree/master/0941-sort-array-by-parity) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mohammedsarjun/LEETCODE/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/mohammedsarjun/LEETCODE/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/mohammedsarjun/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/mohammedsarjun/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mohammedsarjun/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mohammedsarjun/LEETCODE/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -200,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/mohammedsarjun/LEETCODE/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/mohammedsarjun/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/mohammedsarjun/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/mohammedsarjun/LEETCODE/tree/master/0645-set-mismatch) |
