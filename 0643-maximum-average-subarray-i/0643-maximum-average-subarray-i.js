@@ -4,22 +4,20 @@
  * @return {number}
  */
 var findMaxAverage = function(nums, k) {
-    let max=-Infinity
-    let i=0
-
-    while((i+k)<=nums.length){
-
-        let tempMax=0
-        for(let j=i;j<i+k;j++){
-            tempMax+=nums[j]
+    let maxAvg=-Infinity
+    for(let i=0;i<nums.length;i++){
+        let j=i
+        let tempAvg=0
+        if(j+k>nums.length) break
+        while(j<i+k){
+            tempAvg+=nums[j]
+            j++
         }
-       tempMax=tempMax/k
-
-        if(max<tempMax){
-            max=tempMax
+        tempAvg=tempAvg/k
+        if(tempAvg>maxAvg){
+            maxAvg=tempAvg
         }
-        i++
     }
 
-    return max
+    return maxAvg
 };
