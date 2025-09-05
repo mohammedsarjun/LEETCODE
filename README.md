@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/mohammedsarjun/LEETCODE/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/mohammedsarjun/LEETCODE/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/mohammedsarjun/LEETCODE/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/mohammedsarjun/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/mohammedsarjun/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mohammedsarjun/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mohammedsarjun/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mohammedsarjun/LEETCODE/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/mohammedsarjun/LEETCODE/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/mohammedsarjun/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/mohammedsarjun/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mohammedsarjun/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mohammedsarjun/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/mohammedsarjun/LEETCODE/tree/master/0724-find-pivot-index) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/mohammedsarjun/LEETCODE/tree/master/1693-sum-of-all-odd-length-subarrays) |
 ## Stack
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/mohammedsarjun/LEETCODE/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/mohammedsarjun/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/mohammedsarjun/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mohammedsarjun/LEETCODE/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/mohammedsarjun/LEETCODE/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
