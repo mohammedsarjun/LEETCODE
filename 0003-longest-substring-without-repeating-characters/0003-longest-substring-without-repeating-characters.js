@@ -14,10 +14,10 @@ obj[s[right]]=1
 right++
 
 }
-longSubWindow=Math.max(longSubWindow,Math.abs(left-right))
+longSubWindow=Math.max(longSubWindow,right-left)
 
 
-obj[s[left]]=undefined
+delete obj[s[left]]
 }
 return longSubWindow==-Infinity?0:longSubWindow
 };
