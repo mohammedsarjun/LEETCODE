@@ -3,11 +3,15 @@
  * @return {number}
  */
 var fib = function(n) {
-    if(n==0) return n
-    let result=0
-    let arr=[0,1]
-   for(let i=2;i<=n;i++){
-    arr.push(arr[arr.length-1]+arr[arr.length-2])
-   } 
-  return arr[n]
+let n1=0
+let n2=1
+let fib=0
+
+for(let i=0;i<n;i++){
+    n1=n2
+    n2=fib
+    fib=n1+n2
+}
+
+return fib
 };
