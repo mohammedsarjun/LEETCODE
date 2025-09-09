@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/mohammedsarjun/LEETCODE/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/mohammedsarjun/LEETCODE/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohammedsarjun/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/mohammedsarjun/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/mohammedsarjun/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mohammedsarjun/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mohammedsarjun/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/mohammedsarjun/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mohammedsarjun/LEETCODE/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/mohammedsarjun/LEETCODE/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohammedsarjun/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/mohammedsarjun/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohammedsarjun/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/mohammedsarjun/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/mohammedsarjun/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mohammedsarjun/LEETCODE/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/mohammedsarjun/LEETCODE/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -401,4 +404,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/mohammedsarjun/LEETCODE/tree/master/0155-min-stack) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/mohammedsarjun/LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/mohammedsarjun/LEETCODE/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
