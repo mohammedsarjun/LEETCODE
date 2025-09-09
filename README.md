@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/mohammedsarjun/LEETCODE/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/mohammedsarjun/LEETCODE/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/mohammedsarjun/LEETCODE/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/mohammedsarjun/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0227-basic-calculator-ii](https://github.com/mohammedsarjun/LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/mohammedsarjun/LEETCODE/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/mohammedsarjun/LEETCODE/tree/master/0371-sum-of-two-integers) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mohammedsarjun/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/mohammedsarjun/LEETCODE/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohammedsarjun/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/mohammedsarjun/LEETCODE/tree/master/0198-house-robber) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mohammedsarjun/LEETCODE/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/mohammedsarjun/LEETCODE/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/mohammedsarjun/LEETCODE/tree/master/1236-n-th-tribonacci-number) |
 ## Linked List
