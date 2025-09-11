@@ -3,12 +3,16 @@
  * @return {number}
  */
 var climbStairs = function(n,memo={}) {
-    if(n in memo) return memo[n]
+
     if(n<=2) return n
 
-    memo[n]=climbStairs(n-1,memo)+climbStairs(n-2,memo)
+    let dp=Array(n).fill(0)
+    dp[1]=1
+    dp[2]=2
 
-    return memo[n]
-
+    for(let i=3;i<=n;i++){
+        dp[i]=dp[i-1]+dp[i-2]
+    }
+    return dp[n]
 
 };
