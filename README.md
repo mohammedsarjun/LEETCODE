@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/mohammedsarjun/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/mohammedsarjun/LEETCODE/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/mohammedsarjun/LEETCODE/tree/master/0724-find-pivot-index) |
+| [0747-min-cost-climbing-stairs](https://github.com/mohammedsarjun/LEETCODE/tree/master/0747-min-cost-climbing-stairs) |
 | [0932-monotonic-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/mohammedsarjun/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [0965-unique-email-addresses](https://github.com/mohammedsarjun/LEETCODE/tree/master/0965-unique-email-addresses) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohammedsarjun/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/mohammedsarjun/LEETCODE/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/mohammedsarjun/LEETCODE/tree/master/0392-is-subsequence) |
+| [0747-min-cost-climbing-stairs](https://github.com/mohammedsarjun/LEETCODE/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/mohammedsarjun/LEETCODE/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/mohammedsarjun/LEETCODE/tree/master/1236-n-th-tribonacci-number) |
 ## Bit Manipulation
