@@ -3,16 +3,16 @@
  * @return {void} Do not return anything, modify nums in-place instead.
  */
 var moveZeroes = function(nums) {
-    let ind = 0
-    for(let i=0; i<nums.length; i++){
-        if(nums[i] !== 0){
-            nums[ind] = nums[i]
-            ind++
+    let freq={"0":0}
+    for(let i=0;i<nums.length;i++){
+        if(nums[i]==0){
+           let zero= nums.splice(i,1)
+            freq[zero]++
+            i--
         }
-     
     }
-    for(let i=ind; i<nums.length; i++){
-        nums[i] = 0
+let n=freq["0"]
+    for(let i=0;i<n;i++){
+        nums.push(0)
     }
-    return nums
 };
