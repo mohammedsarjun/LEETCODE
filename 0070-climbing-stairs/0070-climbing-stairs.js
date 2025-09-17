@@ -3,7 +3,7 @@
  * @return {number}
  */
 var climbStairs = function(n,memo={}) {
-
+    if(n<=2) return n
     let dp= new Array(n).fill(0)
     dp[1]=1
     dp[2]=2
