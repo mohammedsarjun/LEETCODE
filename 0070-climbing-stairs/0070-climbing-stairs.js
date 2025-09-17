@@ -4,15 +4,13 @@
  */
 var climbStairs = function(n,memo={}) {
 
-    if(n<=2) return n
-
-    let dp=Array(n).fill(0)
+    let dp= new Array(n).fill(0)
     dp[1]=1
     dp[2]=2
-
     for(let i=3;i<=n;i++){
-        dp[i]=dp[i-1]+dp[i-2]
+        dp[i]=dp[i-2]+dp[i-1]
     }
-    return dp[n]
+
+    return dp[dp.length-1]
 
 };
