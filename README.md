@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/mohammedsarjun/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/mohammedsarjun/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mohammedsarjun/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/mohammedsarjun/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mohammedsarjun/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/mohammedsarjun/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/mohammedsarjun/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/mohammedsarjun/LEETCODE/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/mohammedsarjun/LEETCODE/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/mohammedsarjun/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mohammedsarjun/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/mohammedsarjun/LEETCODE/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/mohammedsarjun/LEETCODE/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/mohammedsarjun/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mohammedsarjun/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/mohammedsarjun/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/mohammedsarjun/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/mohammedsarjun/LEETCODE/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1137-height-checker](https://github.com/mohammedsarjun/LEETCODE/tree/master/1137-height-checker) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -329,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/mohammedsarjun/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/mohammedsarjun/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mohammedsarjun/LEETCODE/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/mohammedsarjun/LEETCODE/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -421,4 +426,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/mohammedsarjun/LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mohammedsarjun/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mohammedsarjun/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mohammedsarjun/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
