@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2737-row-with-maximum-ones](https://github.com/mohammedsarjun/LEETCODE/tree/master/2737-row-with-maximum-ones) |
 | [2881-split-strings-by-separator](https://github.com/mohammedsarjun/LEETCODE/tree/master/2881-split-strings-by-separator) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/mohammedsarjun/LEETCODE/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/mohammedsarjun/LEETCODE/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3194-find-words-containing-character](https://github.com/mohammedsarjun/LEETCODE/tree/master/3194-find-words-containing-character) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/mohammedsarjun/LEETCODE/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3429-special-array-i](https://github.com/mohammedsarjun/LEETCODE/tree/master/3429-special-array-i) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2532-remove-letter-to-equalize-frequency](https://github.com/mohammedsarjun/LEETCODE/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2634-minimum-common-value](https://github.com/mohammedsarjun/LEETCODE/tree/master/2634-minimum-common-value) |
 | [2825-minimize-string-length](https://github.com/mohammedsarjun/LEETCODE/tree/master/2825-minimize-string-length) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/mohammedsarjun/LEETCODE/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mohammedsarjun/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mohammedsarjun/LEETCODE/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mohammedsarjun/LEETCODE/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mohammedsarjun/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2427-first-letter-to-appear-twice](https://github.com/mohammedsarjun/LEETCODE/tree/master/2427-first-letter-to-appear-twice) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/mohammedsarjun/LEETCODE/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Recursion
 |  |
 | ------- |
