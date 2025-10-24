@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/mohammedsarjun/LEETCODE/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/mohammedsarjun/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/mohammedsarjun/LEETCODE/tree/master/1205-defanging-an-ip-address) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/mohammedsarjun/LEETCODE/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1532-reformat-the-string](https://github.com/mohammedsarjun/LEETCODE/tree/master/1532-reformat-the-string) |
 | [1651-shuffle-string](https://github.com/mohammedsarjun/LEETCODE/tree/master/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mohammedsarjun/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/mohammedsarjun/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/mohammedsarjun/LEETCODE/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1137-height-checker](https://github.com/mohammedsarjun/LEETCODE/tree/master/1137-height-checker) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/mohammedsarjun/LEETCODE/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/mohammedsarjun/LEETCODE/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mohammedsarjun/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/mohammedsarjun/LEETCODE/tree/master/0409-longest-palindrome) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/mohammedsarjun/LEETCODE/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/mohammedsarjun/LEETCODE/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/mohammedsarjun/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
