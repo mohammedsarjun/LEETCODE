@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0575-distribute-candies](https://github.com/mohammedsarjun/LEETCODE/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mohammedsarjun/LEETCODE/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0605-can-place-flowers](https://github.com/mohammedsarjun/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/mohammedsarjun/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/mohammedsarjun/LEETCODE/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/mohammedsarjun/LEETCODE/tree/master/0724-find-pivot-index) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/mohammedsarjun/LEETCODE/tree/master/0409-longest-palindrome) |
+| [0605-can-place-flowers](https://github.com/mohammedsarjun/LEETCODE/tree/master/0605-can-place-flowers) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/mohammedsarjun/LEETCODE/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/mohammedsarjun/LEETCODE/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/mohammedsarjun/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
