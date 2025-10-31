@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/mohammedsarjun/LEETCODE/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/mohammedsarjun/LEETCODE/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/mohammedsarjun/LEETCODE/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/mohammedsarjun/LEETCODE/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/mohammedsarjun/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0227-basic-calculator-ii](https://github.com/mohammedsarjun/LEETCODE/tree/master/0227-basic-calculator-ii) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/mohammedsarjun/LEETCODE/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/mohammedsarjun/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [1013-fibonacci-number](https://github.com/mohammedsarjun/LEETCODE/tree/master/1013-fibonacci-number) |
 ## Memoization
