@@ -3,19 +3,19 @@
  * @return {number}
  */
 var maxProfit = function(prices) {
+    let maximumPriceSoFar=0
     let minimumPriceSoFar=Infinity
-    let maximumProfitSoFar=-Infinity
     for(let i=0;i<prices.length;i++){
         if(prices[i]<minimumPriceSoFar){
             minimumPriceSoFar=prices[i]
         }else{
-            if((prices[i]-minimumPriceSoFar)>maximumProfitSoFar){
-                maximumProfitSoFar=prices[i]-minimumPriceSoFar
+
+            if((prices[i]-minimumPriceSoFar) > maximumPriceSoFar){
+                maximumPriceSoFar=(prices[i]-minimumPriceSoFar)
             }
         }
     }
-    if(maximumProfitSoFar==-Infinity){
-        return 0
-    }
-    return maximumProfitSoFar
+
+    return  maximumPriceSoFar
+
 };
