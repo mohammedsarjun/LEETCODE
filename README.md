@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mohammedsarjun/LEETCODE/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2181-smallest-index-with-equal-value](https://github.com/mohammedsarjun/LEETCODE/tree/master/2181-smallest-index-with-equal-value) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/mohammedsarjun/LEETCODE/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/mohammedsarjun/LEETCODE/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mohammedsarjun/LEETCODE/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/mohammedsarjun/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/mohammedsarjun/LEETCODE/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/mohammedsarjun/LEETCODE/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/mohammedsarjun/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/mohammedsarjun/LEETCODE/tree/master/2199-two-furthest-houses-with-different-colors) |
 ## Sliding Window
 |  |
 | ------- |
