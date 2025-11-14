@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mohammedsarjun/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3778-transform-array-by-parity](https://github.com/mohammedsarjun/LEETCODE/tree/master/3778-transform-array-by-parity) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohammedsarjun/LEETCODE/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/mohammedsarjun/LEETCODE/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3044-minimum-operations-to-collect-elements](https://github.com/mohammedsarjun/LEETCODE/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mohammedsarjun/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mohammedsarjun/LEETCODE/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/mohammedsarjun/LEETCODE/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## String
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2585-delete-greatest-value-in-each-row](https://github.com/mohammedsarjun/LEETCODE/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/mohammedsarjun/LEETCODE/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3778-transform-array-by-parity](https://github.com/mohammedsarjun/LEETCODE/tree/master/3778-transform-array-by-parity) |
+| [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/mohammedsarjun/LEETCODE/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/mohammedsarjun/LEETCODE/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/mohammedsarjun/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/mohammedsarjun/LEETCODE/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/mohammedsarjun/LEETCODE/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Sliding Window
 |  |
 | ------- |
