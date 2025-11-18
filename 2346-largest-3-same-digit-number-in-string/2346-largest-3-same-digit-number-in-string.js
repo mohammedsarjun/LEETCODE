@@ -3,21 +3,18 @@
  * @return {string}
  */
 var largestGoodInteger = function(num) {
-    let result=-Infinity
-    num=num.split("")
+    let lastRes=[]
     for(let i=0;i<num.length;i++){
-        console.log(num[i],num[i]==num[i+1]&&num[i]==num[i+2])
-
-        if(num[i]==num[i+1]&&num[i]==num[i+2]&&String(result)[0]<num[i]){
-            console.log(num[i])
-            result=num.splice(i,3)
-            i=i-3
+        let isBreak=false
+        for(let j=i+1;j<=i+2;j++){
+            if(num[i]!=num[j]) isBreak=true
         }
+
+        if(!isBreak) {
+            lastRes.push([num[i],num[i],num[i]].join(''))
+            }
     }
-    if(result!=-Infinity){
-      return String(result.join(''))
-    }else{
-        return ""
-    }
-   
+
+    return lastRes.length?lastRes.sort((a,b)=>b-a)[0]:""
+
 };
