@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2825-minimize-string-length](https://github.com/mohammedsarjun/LEETCODE/tree/master/2825-minimize-string-length) |
 | [2881-split-strings-by-separator](https://github.com/mohammedsarjun/LEETCODE/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/mohammedsarjun/LEETCODE/tree/master/2886-faulty-keyboard) |
+| [3019-furthest-point-from-origin](https://github.com/mohammedsarjun/LEETCODE/tree/master/3019-furthest-point-from-origin) |
 | [3194-find-words-containing-character](https://github.com/mohammedsarjun/LEETCODE/tree/master/3194-find-words-containing-character) |
 | [3312-number-of-changing-keys](https://github.com/mohammedsarjun/LEETCODE/tree/master/3312-number-of-changing-keys) |
 | [3617-find-the-original-typed-string-i](https://github.com/mohammedsarjun/LEETCODE/tree/master/3617-find-the-original-typed-string-i) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-maximum-number-of-pairs-in-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/mohammedsarjun/LEETCODE/tree/master/2427-first-letter-to-appear-twice) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/mohammedsarjun/LEETCODE/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [3019-furthest-point-from-origin](https://github.com/mohammedsarjun/LEETCODE/tree/master/3019-furthest-point-from-origin) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mohammedsarjun/LEETCODE/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3778-transform-array-by-parity](https://github.com/mohammedsarjun/LEETCODE/tree/master/3778-transform-array-by-parity) |
 ## Math
