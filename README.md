@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2737-row-with-maximum-ones](https://github.com/mohammedsarjun/LEETCODE/tree/master/2737-row-with-maximum-ones) |
 | [2881-split-strings-by-separator](https://github.com/mohammedsarjun/LEETCODE/tree/master/2881-split-strings-by-separator) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/mohammedsarjun/LEETCODE/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3028-ant-on-the-boundary](https://github.com/mohammedsarjun/LEETCODE/tree/master/3028-ant-on-the-boundary) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/mohammedsarjun/LEETCODE/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3194-find-words-containing-character](https://github.com/mohammedsarjun/LEETCODE/tree/master/3194-find-words-containing-character) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/mohammedsarjun/LEETCODE/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/mohammedsarjun/LEETCODE/tree/master/0724-find-pivot-index) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/mohammedsarjun/LEETCODE/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/mohammedsarjun/LEETCODE/tree/master/1833-find-the-highest-altitude) |
+| [3028-ant-on-the-boundary](https://github.com/mohammedsarjun/LEETCODE/tree/master/3028-ant-on-the-boundary) |
 ## Stack
 |  |
 | ------- |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mohammedsarjun/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/mohammedsarjun/LEETCODE/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2886-faulty-keyboard](https://github.com/mohammedsarjun/LEETCODE/tree/master/2886-faulty-keyboard) |
+| [3028-ant-on-the-boundary](https://github.com/mohammedsarjun/LEETCODE/tree/master/3028-ant-on-the-boundary) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
