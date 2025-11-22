@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/mohammedsarjun/LEETCODE/tree/master/2427-first-letter-to-appear-twice) |
 | [2502-sort-the-people](https://github.com/mohammedsarjun/LEETCODE/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/mohammedsarjun/LEETCODE/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/mohammedsarjun/LEETCODE/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2825-minimize-string-length](https://github.com/mohammedsarjun/LEETCODE/tree/master/2825-minimize-string-length) |
 | [2881-split-strings-by-separator](https://github.com/mohammedsarjun/LEETCODE/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/mohammedsarjun/LEETCODE/tree/master/2886-faulty-keyboard) |
