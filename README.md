@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/mohammedsarjun/LEETCODE/tree/master/0819-most-common-word) |
 | [0932-monotonic-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/mohammedsarjun/LEETCODE/tree/master/0941-sort-array-by-parity) |
+| [0941-valid-mountain-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/0941-valid-mountain-array) |
 | [0965-unique-email-addresses](https://github.com/mohammedsarjun/LEETCODE/tree/master/0965-unique-email-addresses) |
 | [0978-valid-mountain-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/0978-valid-mountain-array) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/mohammedsarjun/LEETCODE/tree/master/1112-find-words-that-can-be-formed-by-characters) |
