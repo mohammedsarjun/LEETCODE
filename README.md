@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/mohammedsarjun/LEETCODE/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3429-special-array-i](https://github.com/mohammedsarjun/LEETCODE/tree/master/3429-special-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mohammedsarjun/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3668-restore-finishing-order](https://github.com/mohammedsarjun/LEETCODE/tree/master/3668-restore-finishing-order) |
 | [3778-transform-array-by-parity](https://github.com/mohammedsarjun/LEETCODE/tree/master/3778-transform-array-by-parity) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mohammedsarjun/LEETCODE/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohammedsarjun/LEETCODE/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2825-minimize-string-length](https://github.com/mohammedsarjun/LEETCODE/tree/master/2825-minimize-string-length) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/mohammedsarjun/LEETCODE/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mohammedsarjun/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3668-restore-finishing-order](https://github.com/mohammedsarjun/LEETCODE/tree/master/3668-restore-finishing-order) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mohammedsarjun/LEETCODE/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/mohammedsarjun/LEETCODE/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## String
