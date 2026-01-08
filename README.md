@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/mohammedsarjun/LEETCODE/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3028-ant-on-the-boundary](https://github.com/mohammedsarjun/LEETCODE/tree/master/3028-ant-on-the-boundary) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/mohammedsarjun/LEETCODE/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/mohammedsarjun/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-find-words-containing-character](https://github.com/mohammedsarjun/LEETCODE/tree/master/3194-find-words-containing-character) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/mohammedsarjun/LEETCODE/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3429-special-array-i](https://github.com/mohammedsarjun/LEETCODE/tree/master/3429-special-array-i) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2585-delete-greatest-value-in-each-row](https://github.com/mohammedsarjun/LEETCODE/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2886-faulty-keyboard](https://github.com/mohammedsarjun/LEETCODE/tree/master/2886-faulty-keyboard) |
 | [3028-ant-on-the-boundary](https://github.com/mohammedsarjun/LEETCODE/tree/master/3028-ant-on-the-boundary) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/mohammedsarjun/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
