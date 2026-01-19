@@ -3,49 +3,37 @@
  * @return {boolean}
  */
 var checkRecord = function (s) {
-    
-    let obj = {}
-    let con = false
-    for (let i = 0; i < s.length; i++) {
-        if (!obj[s[i]]) {
-            obj[s[i]] = 0
-        }
+    let isAbsentLesserThan2Days=s.split('').filter((attendanceWord)=>attendanceWord=="A").length<2
 
-        obj[s[i]]++
+    if(!isAbsentLesserThan2Days) return false
 
-        if (s[i] == "A") {
-            if (obj[s[i]] >= 2) {
-                return false
-            }
-        }
+    let is3LateTaken=s.split('').filter((attendanceWord)=>attendanceWord=="L").length>=3
 
-        if (s[i] == "L") {
-            if (obj[s[i]] > 2) {
-                con = true
-            }
-        }
+    if(!is3LateTaken) return true
 
-    }
+    let is3ConsecutiveLateExist=is3ConsecutiveLate(s)
 
-    if (con) {
-        s=s.split('')
-        while(s.filter((str)=>str=="L").length){
-            let index=s.indexOf("L")
 
-            for(let i=index;i<index+3;i++){
-                if(s[i]!="L"){
-                    s.splice(index,Math.abs(i-index))
-                    break
-                }
-                if(i==(index+3)-1){
-                    return false
-                }
-            }
-        }
-
-        return true
-    
-    }
+    if(is3ConsecutiveLateExist)return false
 
     return true
 };
+
+function is3ConsecutiveLate(s){
+
+
+for(let i=0;i<s.length;i++){
+    if(s[i]=="L"){
+        let aCount=0
+
+        for(let j=i;j<i+3;j++){
+            if(s[j]=="L") aCount++
+            console.log(aCount)
+        }
+
+        if(aCount>=3) return true
+    }
+}
+
+return false
+}
