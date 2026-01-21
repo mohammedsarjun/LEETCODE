@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/mohammedsarjun/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/mohammedsarjun/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mohammedsarjun/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/mohammedsarjun/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mohammedsarjun/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mohammedsarjun/LEETCODE/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/mohammedsarjun/LEETCODE/tree/master/0172-factorial-trailing-zeroes) |
 | [0227-basic-calculator-ii](https://github.com/mohammedsarjun/LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/mohammedsarjun/LEETCODE/tree/master/0258-add-digits) |
+| [0367-valid-perfect-square](https://github.com/mohammedsarjun/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/mohammedsarjun/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/mohammedsarjun/LEETCODE/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/mohammedsarjun/LEETCODE/tree/master/1013-fibonacci-number) |
