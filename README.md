@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/mohammedsarjun/LEETCODE/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/2058-concatenation-of-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/mohammedsarjun/LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mohammedsarjun/LEETCODE/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2181-smallest-index-with-equal-value](https://github.com/mohammedsarjun/LEETCODE/tree/master/2181-smallest-index-with-equal-value) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/mohammedsarjun/LEETCODE/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/mohammedsarjun/LEETCODE/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mohammedsarjun/LEETCODE/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2094-finding-3-digit-even-numbers](https://github.com/mohammedsarjun/LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mohammedsarjun/LEETCODE/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/mohammedsarjun/LEETCODE/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/mohammedsarjun/LEETCODE/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/mohammedsarjun/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/mohammedsarjun/LEETCODE/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1859-sorting-the-sentence](https://github.com/mohammedsarjun/LEETCODE/tree/master/1859-sorting-the-sentence) |
+| [2094-finding-3-digit-even-numbers](https://github.com/mohammedsarjun/LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mohammedsarjun/LEETCODE/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/mohammedsarjun/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mohammedsarjun/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/mohammedsarjun/LEETCODE/tree/master/2083-three-divisors) |
+| [2094-finding-3-digit-even-numbers](https://github.com/mohammedsarjun/LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/mohammedsarjun/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
 ## Simulation
 |  |
@@ -440,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/mohammedsarjun/LEETCODE/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/mohammedsarjun/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [1013-fibonacci-number](https://github.com/mohammedsarjun/LEETCODE/tree/master/1013-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/mohammedsarjun/LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
