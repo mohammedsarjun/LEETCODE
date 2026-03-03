@@ -2,22 +2,21 @@
  * @param {string} s
  * @return {number}
  */
-var lengthOfLongestSubstring = function(s) {
-let longSubWindow=-Infinity
-let right=0
-let obj={}
-for(let left=0;left<s.length;left++){
+var lengthOfLongestSubstring = function (s) {
+    let maxSubString = 0
+    let l = 0
+    let hashTable = {}
 
-while(!obj[s[right]]&&right<s.length){
-obj[s[right]]=1
+    for (let r = 0; r < s.length; r++) {
 
-right++
+        while (hashTable[s[r]]) {
+            delete hashTable[s[l]]
+            l++
+        }
 
-}
-longSubWindow=Math.max(longSubWindow,right-left)
+        hashTable[s[r]] = 1
+        maxSubString = Math.max(maxSubString, r-l+1)
+    }
 
-
-delete obj[s[left]]
-}
-return longSubWindow==-Infinity?0:longSubWindow
+    return maxSubString
 };
